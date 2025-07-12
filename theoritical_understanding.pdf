@@ -1,0 +1,33 @@
+ 1. Short Answer Questions
+Q1: Define algorithmic bias and provide two examples of how it manifests in AI systems.
+Algorithmic bias refers to systematic and unfair discrimination in the outcomes of an AI system, often due to biased training data or flawed model design.
+
+Example 1: A hiring algorithm that was trained on historical company data may favor male candidates over equally qualified female candidates if past hires were biased.
+
+Example 2: A facial recognition system that performs poorly on darker-skinned individuals because the training data lacked diversity in skin tones.
+
+Q2: Explain the difference between transparency and explainability in AI. Why are both important?
+Transparency is about how much information is openly shared about an AI system — including its data sources, algorithms, and decision-making processes.
+
+Explainability is the degree to which a human can understand why an AI system made a specific decision.
+
+Why both matter:
+Transparency builds trust and accountability. Explainability ensures users, regulators, and developers can interpret decisions, detect errors, and ensure fairness — especially in high-stakes domains like healthcare or finance.
+
+Q3: How does GDPR (General Data Protection Regulation) impact AI development in the EU?
+The GDPR enforces strict rules on how personal data is collected, processed, and stored. For AI systems, this means:
+
+Data must be collected with consent and used responsibly.
+
+Users have the “right to explanation” for decisions made by automated systems.
+
+It restricts automated decision-making without human intervention in some cases.
+
+Overall, it promotes ethical, transparent, and privacy-preserving AI development in the EU.
+
+2. Ethical Principles Matching
+Principle	Definition
+B) Non-maleficence	Ensuring AI does not harm individuals or society.
+C) Autonomy	Respecting users’ right to control their data and decisions.
+D) Sustainability	Designing AI to be environmentally friendly.
+A) Justice	Fair distribution of AI benefits and risks.
