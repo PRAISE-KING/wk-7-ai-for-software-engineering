@@ -1,0 +1,14 @@
+One of my most ambitious projects is PROJECT LUDICROUS — a multimodal AI assistant designed to understand both images and text, similar to a vision-enabled ChatGPT. It has the potential to power educational tools, medical support bots, and productivity aids. Given its wide range of applications and direct interaction with users, ethical AI design is a top priority.
+
+To ensure ethical alignment, I’m building PROJECT LUDICROUS on the following principles:
+
+Fairness: I will carefully audit training data to prevent bias, especially in computer vision modules (e.g., avoiding underrepresentation of darker skin tones or non-Western contexts). I’ll use fairness tools like Fairlearn and AI Fairness 360 to monitor model behavior across different demographics.
+
+Transparency and Explainability: Users will have access to explanations of why the model made certain decisions or interpretations — whether it's classifying an image or generating a response. For critical use cases (e.g., healthcare), the system will include a confidence score and rationale to ensure interpretability.
+
+Privacy: Since PROJECT LUDICROUS processes both visual and textual inputs, it may capture sensitive information. I'll integrate data anonymization, secure cloud protocols, and give users full control over their data — including deletion and usage rights.
+
+Accountability: I will embed feedback and reporting systems so users can flag incorrect, biased, or harmful outputs. These reports will feed into a continuous improvement loop for retraining or fine-tuning.
+
+Ultimately, PROJECT LUDICROUS aims to be not just powerful, but also trustworthy, inclusive, and responsible — helping people solve real-world problems without compromising their rights.
+
